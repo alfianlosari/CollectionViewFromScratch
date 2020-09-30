@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Black Panther",
+        "imageName": "blackpanther",
+        "category": "AVENGERS"
+    },
+    {
+        "name": "Captain America",
+        "imageName": "captainamerica",
+        "category": "AVENGERS"
+    },
+    {
+        "name": "Iron Man",
+        "imageName": "ironman",
+        "category": "AVENGERS"
+    },
+    {
+        "name": "Thor",
+        "imageName": "thor",
+        "category": "AVENGERS"
+    },
+    {
+        "name": "Hulk",
+        "imageName": "hulk",
+        "category": "AVENGERS"
+    },
+    {
+        "name": "Black Widow",
+        "imageName": "blackwidow",
+        "category": "AVENGERS"
+    },
+    {
+        "name": "Captain Marvel",
+        "imageName": "captainmarvel",
+        "category": "AVENGERS"
+    },
+    {
+        "name": "Ant Man",
+        "imageName": "antman",
+        "category": "AVENGERS"
+    },
+    {
+        "name": "Hawkeye",
+        "imageName": "hawkeye",
+        "category": "AVENGERS"
+    },
+    {
+        "name": "Wolverine",
+        "imageName": "wolverine",
+        "category": "X-Men"
+    },
+    {
+        "name": "Professor X",
+        "imageName": "xavier",
+        "category": "X-Men"
+    },
+    {
+        "name": "Cyclops",
+        "imageName": "cyclops",
+        "category": "X-Men"
+    },
+    {
+        "name": "Jean Grey",
+        "imageName": "jeangrey",
+        "category": "X-Men"
+    },
+    {
+        "name": "Magneto",
+        "imageName": "magneto",
+        "category": "X-Men"
+    },
+    {
+        "name": "Mystique",
+        "imageName": "mystique",
+        "category": "X-Men"
+    }
+]

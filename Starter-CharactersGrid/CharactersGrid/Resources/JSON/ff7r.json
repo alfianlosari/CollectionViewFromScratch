@@ -1,0 +1,97 @@
+[
+    {
+        "name": "Cloud",
+        "imageName": "cloud",
+        "category": "AVALANCHE"
+    },
+    {
+        "name": "Aerith",
+        "imageName": "aerith",
+        "category": "AVALANCHE"
+    },
+    {
+        "name": "Tifa",
+        "imageName": "tifa",
+        "category": "AVALANCHE"
+    },
+    {
+        "name": "Barret",
+        "imageName": "barret",
+        "category": "AVALANCHE"
+    },
+    {
+        "name": "Jessie",
+        "imageName": "jessie",
+        "category": "AVALANCHE"
+    },
+    {
+        "name": "Red XIII",
+        "imageName": "redxiii",
+        "category": "AVALANCHE"
+    },
+    {
+        "name": "Biggs",
+        "imageName": "biggs",
+        "category": "AVALANCHE"
+    },
+    {
+        "name": "Wedge",
+        "imageName": "wedge",
+        "category": "AVALANCHE"
+    },
+    {
+        "name": "Pres. Shinra",
+        "imageName": "shinra",
+        "category": "shinra"
+    },
+    {
+        "name": "Rufus",
+        "imageName": "rufus",
+        "category": "shinra"
+    },
+    {
+        "name": "Prof. Hojo",
+        "imageName": "hojo",
+        "category": "shinra"
+    },
+    {
+        "name": "Scarlet",
+        "imageName": "scarlet",
+        "category": "shinra"
+    },
+    {
+        "name": "Reeve",
+        "imageName": "reeve",
+        "category": "shinra"
+    },
+    {
+        "name": "Reno",
+        "imageName": "reno",
+        "category": "shinra"
+    },
+    {
+        "name": "Rude",
+        "imageName": "rude",
+        "category": "shinra"
+    },
+    {
+        "name": "Tseng",
+        "imageName": "tseng",
+        "category": "shinra"
+    },
+    {
+        "name": "Heidegger",
+        "imageName": "heidegger",
+        "category": "shinra"
+    },
+    {
+        "name": "Sephiroth",
+        "imageName": "sephiroth",
+        "category": "jenova"
+    },
+    {
+        "name": "Dreamweaver",
+        "imageName": "dreamweaver",
+        "category": "jenova"
+    }
+]

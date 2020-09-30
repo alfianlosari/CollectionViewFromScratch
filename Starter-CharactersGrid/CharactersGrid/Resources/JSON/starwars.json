@@ -1,0 +1,63 @@
+[
+    {
+        "name": "Yoda",
+        "imageName": "yoda",
+        "category": "jedi"
+    },
+    {
+        "name": "Qui Gon",
+        "imageName": "quigon",
+        "category": "jedi"
+    },
+    {
+        "name": "Anakin Skywalker",
+        "imageName": "anakin",
+        "category": "jedi"
+    },
+    {
+        "name": "Obi Wan",
+        "imageName": "obiwan",
+        "category": "jedi"
+    },
+    {
+        "name": "Mace Windu",
+        "imageName": "mace",
+        "category": "jedi"
+    },
+    {
+        "name": "Luke Skywalker",
+        "imageName": "luke",
+        "category": "jedi"
+    },
+    {
+        "name": "Rey",
+        "imageName": "rey",
+        "category": "jedi"
+    },
+    {
+        "name": "Darth Maul",
+        "imageName": "darthmaul",
+        "category": "sith"
+    },
+    {
+        "name": "Darth Sidious",
+        "imageName": "palpatine",
+        "category": "sith"
+    },
+    {
+        "name": "Darth Vader",
+        "imageName": "vader",
+        "category": "sith"
+    },
+    {
+        "name": "Darth Tyrannus",
+        "imageName": "tyrannus",
+        "category": "sith"
+    },
+    {
+        "name": "Darth Plagueis",
+        "imageName": "plagueis",
+        "category": "sith"
+    }
+]
+
