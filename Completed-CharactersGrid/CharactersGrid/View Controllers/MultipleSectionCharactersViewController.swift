@@ -65,6 +65,7 @@ class MultipleSectionCharactersViewController: UIViewController {
                 let section = self.sectionedCharactes[indexPath.section]
                 headerView.configure(text: "\(section.category) (\(section.characters.count))".uppercased())
             }
+            self.collectionView.collectionViewLayout.invalidateLayout()
         }
     }
     

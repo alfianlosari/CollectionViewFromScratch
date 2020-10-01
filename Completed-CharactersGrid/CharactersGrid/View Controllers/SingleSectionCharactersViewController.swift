@@ -40,7 +40,7 @@ class SingleSectionCharactersViewControler: UIViewController {
                 let headerView = self.collectionView.supplementaryView(forElementKind: UICollectionView.elementKindSectionHeader, at: indexPath) as! HeaderView
                 headerView.configure(text: "\(self.characters.count) character(s)")
             }
-            
+            self.collectionView.collectionViewLayout.invalidateLayout()
         }
     }
     
